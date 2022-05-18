@@ -14,7 +14,7 @@
     "cross-fetch": "3.0.5",
     "escape-html": "1.0.3",
     "immer": "7.0.5",
-    "marked": "1.1.1",
+    "marked": "4.0.10",
     "mobx": "5.15.4",
     "mobx-react": "6.2.2",
     "prop-types": "15.7.2",
